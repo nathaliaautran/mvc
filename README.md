@@ -3,7 +3,7 @@
 Pesquisa com texto, imagem e links de conteudo
 (videos/artigos)
 
-## conceito padrãso mvc javascript
+## conceito padrão mvc javascript
 
 ## conceito framework javascript
 
