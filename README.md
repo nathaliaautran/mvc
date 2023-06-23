@@ -46,6 +46,7 @@ As vantagens de utilizar um framework são inúmeras, dentre elas podemos destac
 <br/>
 <img src= "https://www.simform.com/wp-content/uploads/2022/02/javascript-frontend-framework-banner.png"/>
 <br/>
+
 ## Conceito biblioteca Javascript
 
 Biblioteca são conjuntos de recursos e funções que realiza ações pré – definidas que auxiliam no desenvolvimento de uma aplicação.
@@ -67,6 +68,7 @@ Você pode usar bibliotecas JavaScript para:
 <br/>
 <img src= "https://www.spaceo.ca/wp-content/uploads/2022/01/front-end-libraries.jpg" height="500" width= "1800"/>
 <br/>
+
 ### Referências
 <br/>
 https://blog.unyleya.edu.br/bitbyte/arquitetura-de-software/ <br/>
