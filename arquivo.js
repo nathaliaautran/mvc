@@ -24,5 +24,4 @@ function pegaArquivo(caminhoDoArquivo) {
     })
 }
 
-//pegaArquivo('./arquivos/textoBiblioteca.md');
 pegaArquivo('./biblioteca/texto.md');

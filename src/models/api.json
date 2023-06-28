@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "Cristo Redentor",
+        "País": "Brasil",
+        "Ranking": "1º"
+    },
+    {
+        "nome": "Machu Picchu",
+        "País": "Peru",
+        "Ranking": "2º"
+    },
+    {
+        "nome": "Chichén Itzá",
+        "País": "México",
+        "Ranking":"3º"
+    },
+    {
+        "nome": "Coliseu",
+        "País": "Itália",
+        "Ranking": "4º"
+    },
+    {
+        "nome": "Ruínas de Petra",
+        "País": "Jordânia",
+        "Ranking": "5º"
+    },
+    {
+        "nome": "Taj Mahal",
+        "País": "Índia",
+        "Ranking": "6º"
+    },
+    {
+        "nome": "Grande Muralha da China",
+        "País": "China",
+        "Ranking": "7º"
+    }
+]
